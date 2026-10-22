@@ -58,6 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GabrielySchiller/GabrielySchiller/output/snake.svg" alt="Snake animation" />
+
 
 ###
